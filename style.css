@@ -9,3 +9,9 @@ padding: 10px;
 font-size: 32px;
 color: brown;
 }
+section{background: rgb(70, 0, 0);
+padding-bottom: 80px;
+padding-top: 50px;
+display: flex;
+justify-content: center;
+}
